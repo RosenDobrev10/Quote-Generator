@@ -1,0 +1,39 @@
+body {
+  background-color: #8fb996;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#container {
+  background-color: #111d13;
+  border: 5px solid #ffffff;
+  height: 275px;
+  width: 750px;
+  margin: 0 auto;
+  text-align: center;
+  box-shadow: 1px 0px 48px -6px rgba(17, 29, 19, 1);
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+
+#btn {
+  margin: 30px auto;
+  padding: 10px;
+  border: 1px solid white;
+  font-size: 22px;
+  background-color: transparent;
+  border-radius: 6px;
+  color: white;
+}
+
+#output {
+  margin: 30px;
+  font-size: 24px;
+  color: white;
+}
